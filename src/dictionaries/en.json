@@ -1,0 +1,77 @@
+{
+    "welcome": {
+        "title": "Welcome",
+        "message": "Welcome to our website, your gateway to the cosmos. We are dedicated to bringing you the latest and most fascinating information about our solar system and the exciting possibilities of space travel. Our mission is to inspire, educate, and spark curiosity in every individual who visits our site. Join us as we explore the universe, unravel its mysteries, and embark on an incredible journey across the stars. Last but not least, don't forget to visit our Shop to help us keep the website running and continue our work of space divulgation. We invite you to explore our shop and join us in our journey across the stars."
+    },
+    "notFound": {
+        "title": "Not found",
+        "message": "The page you are looking for does not exist."
+    },
+    "error": {
+        "title": "Something went wrong",
+        "try_again": "Try again"
+    },
+    "about": {
+        "menuTitle": "About",
+        "title": "About us",
+        "message": "Our journey began out of a shared passion for the mysteries of the cosmos. We wanted to create a platform that could bring the wonders of our solar system and the thrill of space travel to everyone, regardless of their background or expertise. Thus, this website was born. Our goal is to make space exploration accessible and exciting for all. We strive to provide the latest information, fascinating insights, and educational resources about our solar system and beyond. We believe that by sharing this knowledge, we can inspire a new generation of explorers and dreamers. To support our mission, we've also launched a merchandise shop. Each purchase helps us keep the website running and continue our work of space divulgation. We invite you to explore our shop and join us in our journey across the stars."
+    },
+    "goBack": "Go back",
+    "home": "Home",
+    "contact": {
+        "menuTitle": "Contact",
+        "title": "Contact us",
+        "your_email": "Your email",
+        "leave_a_message": "Leave a message",
+        "send": "Send"
+    },
+    "products": {
+        "title": "Shop"
+    },
+    "categories": {
+        "all": "All",
+        "accessories": "Accessories",
+        "fashion": "Fashion",
+        "home": "Home"
+    },
+    "description": "Description",
+    "cart": {
+        "title": "Your Cart",
+        "total": "Total Price",
+        "empty": "Empty cart"
+    },
+    "price": "Price",
+    "quantity": "Quantity",
+    "blog": {
+        "menu_title": "Blog",
+        "page_title": "Our planets"
+    },
+    "admin": {
+        "title": "Administration Panel",
+        "add_product": "Add Product",
+        "edit": "Edit",
+        "product_table": {
+            "name": "Name",
+            "price": "Price",
+            "in_stock": "Stock",
+            "category": "Category",
+            "image": "Image",
+            "slug": "Slug",
+            "description": "Description",
+            "actions": "Actions"
+        }
+    },
+    "auth": {
+        "login": "Login",
+        "register": "Register",
+        "enter_credentials": "Enter your credentials",
+        "email_placeholder": "Your Email",
+        "password_placeholder": "Your Password",
+        "google": "Login with Google"
+    },
+    "page_under_construction": "Page under construction",
+    "product": {
+        "error": "Product not found"
+    },
+    "remove": "Remove"
+}

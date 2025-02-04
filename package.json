@@ -1,0 +1,34 @@
+{
+  "name": "coderhouse-proyecto",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Ezequiel",
+    "email": "eze@hotmail.com"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@formatjs/intl-localematcher": "^0.5.2",
+    "coderhouse-proyecto": "file:",
+    "dotenv": "^16.4.3",
+    "firebase": "^10.8.0",
+    "negotiator": "^0.6.3",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@next/bundle-analyzer": "^14.1.0",
+    "autoprefixer": "^10.0.1",
+    "cross-env": "^7.0.3",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
