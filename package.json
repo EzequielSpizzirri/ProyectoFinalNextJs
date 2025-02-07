@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Ezequiel",
-    "email": "ezequielspizzirri2000@gmail.com"
+    "name": "",
+    "email": ""
   },
   "scripts": {
     "dev": "next dev",
